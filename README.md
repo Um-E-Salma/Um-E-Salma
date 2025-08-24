@@ -1,6 +1,6 @@
 # Hi there, I'm Um-E-Salma! 👋
 
-I'm an AI engineer and software engineer based in Multan, Punjab, Pakistan. For the past two years, I've been freelancing on platforms like [Fiverr](https://www.fiverr.com/users/umesalma339), working on a variety of projects. I'm passionate about leveraging artificial intelligence and software development to create innovative solutions.
+I'm an AI engineer and software engineer based in Multan, Punjab, Pakistan. From 2021, I've been freelancing on platforms like [Fiverr](https://www.fiverr.com/users/umesalma339), working on a variety of projects. I'm passionate about leveraging artificial intelligence and software development to create innovative solutions.
 
 ## About Me
 
